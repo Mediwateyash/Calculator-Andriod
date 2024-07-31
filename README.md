@@ -13,6 +13,7 @@ My Calculator is a basic calculator app built using Java in Android Studio. It p
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
+you will find apk file at  \app\build\outputs\apk\debug location you can directly open in your mobile phone 
 ## Usage
 
 1. Launch the app.
